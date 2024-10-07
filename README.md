@@ -50,7 +50,7 @@ The detailed findings and insights from the churn analysis can be found in the [
 
 
 ## Code
-The code for this project can be found in the attached HTML file (`churn_analysis_by_fani.html`). It includes all the steps from data processing to model building and evaluation.
+The code for this project can be found in the attached HTML file (`churn_analysis_by_fani.html`) or Jupyter Notebook (`churn_analysis_by_fani.ipynb`). It includes all the steps from data processing to model building and evaluation.
 
 ## Usage
 1. **Prerequisites**: Ensure you have Python installed along with necessary libraries (`pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`).
