@@ -1,5 +1,11 @@
 # Churn Analysis
 
+## Table of Contents
+- [Objective](#objective)
+- [Background](#story)
+- [Methodology](#methodology)
+- [Recommendations](#recommendations)
+
 ## Objective
 The objective of this project is to analyze customer churn using various statistical and machine learning techniques to uncover key drivers of churn. This analysis aims to provide actionable insights for developing customer retention strategies.
 
